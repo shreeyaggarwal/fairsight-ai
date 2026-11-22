@@ -7,6 +7,21 @@ The project demonstrates how organizations can assess AI-assisted hiring systems
 
 **[Live Dashboard](https://fairsight-ai-rg06.onrender.com)**
 
+## Dashboard Preview
+
+### Overview
+![FairSight AI Overview](overview.png)
+
+### Fairness Analysis
+![Group Fairness Metrics](fairness.png)
+
+### Explainable AI
+![SHAP Explainability](explainability.png)
+
+### Governance & Reports
+![AI Governance Risk Assessment](governance.png)
+  
+
 ## Key Features
 
 - **Model Performance:** Evaluate predictive accuracy and ROC AUC using held-out test data.
